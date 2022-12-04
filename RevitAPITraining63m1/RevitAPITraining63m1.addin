@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining63m1.dll"</Assembly>
+		<AddInId>D2A81349-002C-4FC5-9BFB-97950440B996</AddInId>
+		<FullClassName>RevitAPITraining63m1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание менбели между точками</Text>
+	</AddIn>
+</RevitAddIns>
